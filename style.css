@@ -34,7 +34,7 @@ body{
     background-color: #fff;
     border-radius: 10px;
     -webkit-border-radius:10px;
-    box-shadow: 0 2.8px 2.2px rgba(0,0,0,0.034) , 0 6.7px 53px rgba(0,0,0,0.048) ,0 2.8px 2.2px rgba(0,0,0,0.034) ;
+    box-shadow:0 2.8px 2.2px rgba(0,0,0,34) , 0 6.7px 53px rgba(0,0,0,48) ,0 2.8px 2.2px rgba(0,0,0,34);
     overflow: hidden;
     width: calc(100vw - 65vw);
     max-width: 100%;
